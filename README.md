@@ -43,7 +43,9 @@ An interactive Java application to manage events and holidays on a calendar, int
 2. Create the events table:
 
     USE calendar;
+   
     CREATE TABLE IF NOT EXISTS events (
+   
         id INT AUTO_INCREMENT PRIMARY KEY,
         event_date DATE NOT NULL,
         event_title VARCHAR(255) NOT NULL,
@@ -53,7 +55,7 @@ An interactive Java application to manage events and holidays on a calendar, int
     );
     
 
-3. Insert predefined events:
+4. Insert predefined events:
     
     INSERT INTO events (event_date, event_title, event_description)
     VALUES
