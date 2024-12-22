@@ -63,7 +63,9 @@ An interactive Java application to manage events and holidays on a calendar, int
 4. Insert predefined events:
     
     INSERT INTO events (event_date, event_title, event_description)
+   
     VALUES
+   
         ('2024-01-01', 'New Year', 'Start of the year celebration'),
    
         ('2024-01-26', 'Republic Day', 'Celebration of the Indian Constitution'),
