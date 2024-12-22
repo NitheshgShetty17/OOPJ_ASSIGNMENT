@@ -8,7 +8,7 @@ public class Main {
         // Database URL, username, and password
         String url = "jdbc:mysql://localhost:3306/calendar"; // Replace 'CalendarAppDB' with your database name
         String username = "root"; // Replace with your MySQL username
-        String password = "Nikhil@645445"; // Replace with your MySQL password
+        String password = " "; // Replace with your MySQL password
 
         try {
             // Attempt to establish a connection
