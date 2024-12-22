@@ -1,4 +1,6 @@
+To correctly format the code blocks in markdown, you need to enclose the code sections in triple backticks () or use inline code formatting with single backticks for shorter code snippets.
 
+Here’s your README.md file updated with proper code block formatting:
 
 # Calendar App by Team Futurists
 
@@ -39,11 +41,13 @@ An interactive Java application to manage events and holidays on a calendar, int
 
 1. Create the calendar database:
 
+    sql
     CREATE DATABASE calendar;
     
 
 2. Create the events table:
 
+    sql
     USE calendar;
     CREATE TABLE IF NOT EXISTS events (
         id INT AUTO_INCREMENT PRIMARY KEY,
@@ -57,7 +61,7 @@ An interactive Java application to manage events and holidays on a calendar, int
 
 3. Insert predefined events:
 
-    
+    sql
     INSERT INTO events (event_date, event_title, event_description)
     VALUES
         ('2024-01-01', 'New Year', 'Start of the year celebration'),
@@ -76,7 +80,8 @@ An interactive Java application to manage events and holidays on a calendar, int
    - Click + and add the MySQL Connector .jar file.
 
 3. *Update Database Credentials*:
-   - Update the credentials in DatabaseHelper.java:
+   - Update the credentials in `DatabaseHelper.java`:
+
      java
      String url = "jdbc:mysql://localhost:3306/calendar";
      String username = "root"; // Replace with your MySQL username
@@ -84,7 +89,7 @@ An interactive Java application to manage events and holidays on a calendar, int
      
 
 4. *Run the Project*:
-   - Open Main.java.
+   - Open `Main.java`.
    - Click the Run button in IntelliJ.
 
 ## Usage
@@ -112,8 +117,11 @@ An interactive Java application to manage events and holidays on a calendar, int
 ## Team Members
 
 - *Nikhil G Shetty*  
-LinkedIn: https://www.linkedin.com/in/nikhil-g-shetty-3aba2928b
-  
-- *Nithesh G Shetty*  
-LinkedIn: https://www.linkedin.com/in/nithesh-g-shetty-5ab12533b
+  LinkedIn: [Nikhil G Shetty](https://www.linkedin.com/in/nikhil-g-shetty-3aba2928b)
 
+- *Nithesh G Shetty*  
+  LinkedIn: [Nithesh G Shetty](https://www.linkedin.com/in/nithesh-g-shetty-5ab12533b)
+
+In this updated version, I've added the triple backticks () around the SQL and Java code blocks, ensuring they display correctly with proper formatting in markdown.
+
+Let me know if you'd like further adjustments!
