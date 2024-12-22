@@ -9,7 +9,7 @@ public class DatabaseHelper {
 
         String url = "jdbc:mysql://localhost:3306/calendar"; // Replace with your database URL
         String username = "root"; // Your MySQL username
-        String password = "Nikhil@645445"; // Your MySQL password
+        String password = " "; // Your MySQL password
 
         String query = "SELECT * FROM events";
 
