@@ -114,7 +114,8 @@ An interactive Java application to manage events and holidays on a calendar, int
 ## Team Members
 
 - *Nikhil G Shetty*  
-  LinkedIn: [Nikhil G Shetty](https://www.linkedin.com)
+LinkedIn: https://www.linkedin.com/in/nikhil-g-shetty-3aba2928b
   
 - *Nithesh G Shetty*  
-  LinkedIn: [Nithesh G Shetty](https://www.linkedin.com)
+LinkedIn: https://www.linkedin.com/in/nithesh-g-shetty-5ab12533b
+
