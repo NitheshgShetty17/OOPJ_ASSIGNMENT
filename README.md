@@ -118,10 +118,36 @@ An interactive Java application to manage events and holidays on a calendar, int
 - Blue: Birthdays
 - Green: National Days
 
-## Team Members
+  
+## YouTube is given below
+https://youtu.be/mutU2_f-fy8?feature=shared
+
+
+## LinkedIn
 
 - Nikhil G Shetty  
 LinkedIn: https://www.linkedin.com/in/nikhil-g-shetty-3aba2928b
   
 - Nithesh G Shetty  
 LinkedIn: https://www.linkedin.com/in/nithesh-g-shetty-5ab12533b
+
+
+## Technologies Used
+Programming Language: Java
+Database: MySQL
+Libraries: JDBC for database connectivity
+
+## Team Members
+Nikhil G Shetty
+Nithesh G Shetty
+Waqas
+
+## Acknowledgements
+We would like to extend our gratitude to the following for their guidance and technical assistance:
+
+1.ChatGPT
+2.YouTube Tutorials
+
+## License
+This project is developed for educational purposes. Please contact the authors for licensing queries.
+
