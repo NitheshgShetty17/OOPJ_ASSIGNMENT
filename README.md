@@ -139,13 +139,16 @@ Libraries: JDBC for database connectivity
 
 ## Team Members
 Nikhil G Shetty
+
 Nithesh G Shetty
+
 Waqas
 
 ## Acknowledgements
 We would like to extend our gratitude to the following for their guidance and technical assistance:
 
 1.ChatGPT
+
 2.YouTube Tutorials
 
 ## License
